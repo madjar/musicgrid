@@ -1,0 +1,4 @@
+*.pyc
+/musicgrid.db
+/musicgrid.egg-info
+/venv
